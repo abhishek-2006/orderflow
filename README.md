@@ -1,10 +1,10 @@
-# **OrderFlow**
+# **Restaurant-Management-System**
 
 **Python Tkinter Project | DSA Showcase**
 
 ## **Description**
 
-**OrderFlow** is a **Python Tkinter project** demonstrating the practical use of **Queue (FIFO)** for pending orders and **Stack (LIFO)** for recently served orders. It’s a **showcase project** to highlight how core **DSA concepts** can be applied in a GUI-based application.
+It is a **Python Tkinter project** demonstrating the practical use of **Queue (FIFO)** for pending orders and **Stack (LIFO)** for recently served orders. It’s a **showcase project** to highlight how core **DSA concepts** can be applied in a GUI-based application.
 
 ## **Features**
 
