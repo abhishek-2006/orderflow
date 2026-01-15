@@ -1,4 +1,4 @@
-# **Restaurant-Management-System**
+# **Restaurant-Management-System-Python**
 
 **Python Tkinter Project | DSA Showcase**
 
@@ -32,13 +32,13 @@ It is a **Python Tkinter project** demonstrating the practical use of **Queue (F
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abhishek-2006/orderflow.git
+git clone https://github.com/abhishek-2006/Restaurant-Management-System-Python.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd orderflow
+cd Restaurant-Management-System-Python
 ```
 
 3. Run the application:
